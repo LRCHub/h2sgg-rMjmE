@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "シュテルン",
+  "base_artist": "鎖那",
+  "createdAt": "2026-02-21T12:24:24.658658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュテルン",
+      "artist": "sana",
+      "has_synced": false,
+      "path": "select/01_シュテルン_sana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュテルン",
+      "artist": "鎖那",
+      "has_synced": false,
+      "path": "select/pl_01_シュテルン_鎖那.txt"
+    }
+  ]
+}
